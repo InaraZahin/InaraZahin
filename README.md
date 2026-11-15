@@ -34,6 +34,19 @@ and building automation suites that run reliably in CI.
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/InaraZahin/employee-api">Employee API</a></h4>
+      <p>A secured Spring Boot 4 REST API (JWT roles, PostgreSQL, Flyway, OpenAPI) with 36 tests:
+      RestAssured API tests against a real database via Testcontainers, plus unit tests. 97% line coverage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/RestAssured-25A162" alt="RestAssured">
+        <img src="https://img.shields.io/badge/Testcontainers-291A3F?logo=testcontainers&logoColor=white" alt="Testcontainers">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ### 🔍 How I test
@@ -53,6 +66,8 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" alt="TestNG">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/Allure-FF7F50?style=for-the-badge" alt="Allure">
+<img src="https://img.shields.io/badge/RestAssured-25A162?style=for-the-badge" alt="RestAssured">
+<img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers">
 
 **Languages**
 <br>
@@ -67,9 +82,14 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge" alt="REST APIs">
+
 **Also built with** (earlier development projects)
 <br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
