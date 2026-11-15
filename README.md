@@ -12,6 +12,21 @@ and building automation suites that run reliably in CI.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/InaraZahin/soho-studio-qa">Soho Studio QA: end-to-end test project</a></h4>
+      <p>The full QA cycle for a real website: requirements review, test plan, traceable test cases,
+      a C# Selenium framework with SQL data setup, exploratory testing that found 4 defects (with root-cause
+      analysis), and a test summary report with metrics. Runs in CI on every change.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
+        <img src="https://img.shields.io/badge/NUnit-22A7F0" alt="NUnit">
+        <img src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/InaraZahin/rocketchat-e2e-playwright">Rocket.Chat E2E suite</a></h4>
       <p>40 end-to-end and API tests for Rocket.Chat 9: messaging, rooms, teams, search, admin.
@@ -77,16 +92,19 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" alt="TestNG">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/Allure-FF7F50?style=for-the-badge" alt="Allure">
+<img src="https://img.shields.io/badge/NUnit-22A7F0?style=for-the-badge" alt="NUnit">
 <img src="https://img.shields.io/badge/RestAssured-25A162?style=for-the-badge" alt="RestAssured">
 <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers">
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
 
 **Languages**
 <br>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
 **CI & tooling**
 <br>
@@ -94,6 +112,7 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 
 **Backend & web**
 <br>
