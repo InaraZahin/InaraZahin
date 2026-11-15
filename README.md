@@ -35,7 +35,7 @@ and building automation suites that run reliably in CI.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/InaraZahin/employee-api">Employee API</a></h4>
       <p>A secured Spring Boot 4 REST API (JWT roles, PostgreSQL, Flyway, OpenAPI) with 36 tests:
       RestAssured API tests against a real database via Testcontainers, plus unit tests. 97% line coverage.</p>
@@ -44,6 +44,17 @@ and building automation suites that run reliably in CI.
         <img src="https://img.shields.io/badge/RestAssured-25A162" alt="RestAssured">
         <img src="https://img.shields.io/badge/Testcontainers-291A3F?logo=testcontainers&logoColor=white" alt="Testcontainers">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/InaraZahin/realtime-chat">Real-time Chat</a></h4>
+      <p>A full-stack chat app (rooms, typing indicators, presence, unread badges, read receipts) with
+      Playwright tests where separate browsers act as different users. The tests caught 3 race-condition bugs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" alt="Socket.IO">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright">
       </p>
     </td>
   </tr>
@@ -68,11 +79,13 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/Allure-FF7F50?style=for-the-badge" alt="Allure">
 <img src="https://img.shields.io/badge/RestAssured-25A162?style=for-the-badge" alt="RestAssured">
 <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
 
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
 **CI & tooling**
@@ -82,14 +95,16 @@ and building automation suites that run reliably in CI.
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-**Backend**
+**Backend & web**
 <br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 
 **Also built with** (earlier development projects)
 <br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
